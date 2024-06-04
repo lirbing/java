@@ -7,7 +7,7 @@ public class Test08 {
         n = 20; // n的值改为20
         System.out.println(p.getAge()); // 15还是20?
 
-        int x = 10;
+        int x = 100;
 
         do{
             System.out.print("value of x : " + x );
